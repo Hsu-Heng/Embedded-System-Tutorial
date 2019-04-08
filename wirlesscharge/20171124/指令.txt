@@ -1,0 +1,3 @@
+
+am start -a android.bluetooth.adapter.action.REQUEST_ENABLE
+am start -n com.example.hsu.bt_4_mega2560/.Main2Activity
